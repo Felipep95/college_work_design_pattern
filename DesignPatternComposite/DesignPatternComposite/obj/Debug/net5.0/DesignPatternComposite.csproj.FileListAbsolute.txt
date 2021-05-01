@@ -1,0 +1,16 @@
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\DesignPatternComposite.exe
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\DesignPatternComposite.deps.json
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\DesignPatternComposite.runtimeconfig.json
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\DesignPatternComposite.runtimeconfig.dev.json
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\DesignPatternComposite.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\ref\DesignPatternComposite.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\bin\Debug\net5.0\DesignPatternComposite.pdb
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.csprojAssemblyReference.cache
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.GeneratedMSBuildEditorConfig.editorconfig
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.AssemblyInfoInputs.cache
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.AssemblyInfo.cs
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.csproj.CoreCompileInputs.cache
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\ref\DesignPatternComposite.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.pdb
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\DesignPatternComposite\DesignPatternComposite\obj\Debug\net5.0\DesignPatternComposite.genruntimeconfig.cache
