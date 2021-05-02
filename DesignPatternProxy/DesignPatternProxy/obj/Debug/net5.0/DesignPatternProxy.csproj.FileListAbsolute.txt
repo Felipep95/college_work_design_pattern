@@ -1,0 +1,16 @@
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\DesignPatternProxy.exe
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\DesignPatternProxy.deps.json
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\DesignPatternProxy.runtimeconfig.json
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\DesignPatternProxy.runtimeconfig.dev.json
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\DesignPatternProxy.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\ref\DesignPatternProxy.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\bin\Debug\net5.0\DesignPatternProxy.pdb
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.csprojAssemblyReference.cache
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.GeneratedMSBuildEditorConfig.editorconfig
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.AssemblyInfoInputs.cache
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.AssemblyInfo.cs
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.csproj.CoreCompileInputs.cache
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\ref\DesignPatternProxy.dll
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.pdb
+A:\Facul\8º Período\Padrões de Projeto\Trabalhos\Second AF\CollegeWork-DesignPattern-Structural\DesignPatternProxy\DesignPatternProxy\obj\Debug\net5.0\DesignPatternProxy.genruntimeconfig.cache
