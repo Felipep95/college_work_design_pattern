@@ -25,7 +25,6 @@ namespace DesignPatternComposite
             Button.AddItem(Text2);
             Button.AddItem(Figure);
 
-
             Window.ShowItem();
             Console.WriteLine();
             Button.ShowItem();
